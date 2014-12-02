@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+
+#allContent {
+	auto: !important;
+	border-color: black;
+	border-width: 1px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size 150%;
+}
+
+.border {
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 25px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.mainColors {
+	background-color: #C8F6D6;
+	margin: 10px 10px 10px 10px; 
+}
+
+.mainBoxColor {
+	background-color: #DEF6C8;
+	margin: 5px 5px 5px 5px; 
+	/*background-color: #9C9566;*/
+}
+
+#header {
+	overflow: hidden;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#bloggers {
+	float: right;
+}
+
+#welcome {
+	float: left;
+}
+
+.profilePic {
+	float: right;
+	vertical-align:top;
+	padding-right: 15px;
+	padding-top: 0px;
+}
+
+.bloggerName {
+	float: left;
+}
+
+.profileText {
+	clear: both;
+	margin-left: 30px;
+	/*margin-top: 20 px;*/
+}
+
+#footer {
+	text-align: center;
+	clear: both;
+	line-height: 0px;
+}

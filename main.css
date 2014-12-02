@@ -1,0 +1,125 @@
+@CHARSET "UTF-8";
+
+#allContent {
+	border-color: black;
+	border-width: 1px;
+	font-family: "Times New Roman", Times, serif;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+body {min-width:400px;}
+
+#header {
+	overflow: hidden;
+}
+
+#bloggers {
+	float: right;
+	padding-right: 25px;
+	line-height: 2px;
+}
+
+#welcome {
+	float: left;
+}
+
+.border {
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 25px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.mainColors {
+	background-color: #ECE5B6;
+	margin: 10px 10px 10px 10px; 
+}
+
+.mainBoxColor {
+	background-color: #F3E5AB;
+	margin: 5px 5px 5px 5px; 
+	/*background-color: #9C9566;*/
+}
+a:link {	color: #535A93;}
+a:visited { color: #935753;}
+a:hover {color: #}
+
+#sidebar {
+	display: table-cell;
+	width: 200px;
+	float: left;
+	vertical-align: top;
+}
+
+#sidebar ul {
+	padding-left: 20px;
+}
+
+#sidebar p {
+	margin-top: 55px;
+	margin-left: 15px;
+}
+
+#main {
+	display: table-cell;
+	vertical-align: top;
+}
+
+#main.h3 {
+	line-height: 100px;
+}
+
+div#tableContainer {
+	display: table;
+	border-spacing: 10px;
+}
+
+div#tableRow {
+	display: table-row;
+}
+
+.profile {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.profilePic {
+	float: right;
+	vertical-align:top;
+	padding-right: 15px;
+	padding-top: 0px;
+}
+
+.bloggerName {
+	float: left;
+}
+
+.profileText {
+	clear: both;
+	margin-left: 30px;
+}
+
+#sidebar p {
+	padding-left:10px;
+	padding-right: 10px;
+	margin-top: 5px;
+	/*background-color: #9C9566;*/
+}
+#bloggerAl {
+	
+}
+
+#bloggerMyles {
+	
+}
+
+#footer {
+	text-align: center;
+	clear: both;
+	margin-top: 1px;
+	line-height: 0px;
+}

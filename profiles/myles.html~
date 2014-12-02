@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<img src="../img/myles.jpg" title="MYLES" alt="ProfilePic" />
+	<a href="../index.html">return to main page</a>
+</body>
+</html>

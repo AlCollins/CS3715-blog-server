@@ -1,0 +1,28 @@
+.boxStyling {
+	border-color: black;
+	border-width: 2px;
+	border-radius: 25px;
+	padding: 5px;
+	background-color: #F3E5AB;
+	margin: 5px;
+	text-align: center;
+}
+
+
+body {
+	border-color: black;
+	border-width: 1px;
+	font-family: "Times New Roman", Times, serif;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+
+form {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
